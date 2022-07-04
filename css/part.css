@@ -1,0 +1,62 @@
+a{
+  text-decoration: none;
+  color : black;
+  font-weight: 600;
+}
+
+.feature{
+  position: fixed;
+  top: 510px;
+  right : 50px;
+  width: 150px;
+  height: 200px;
+  border : 2px solid black;
+}
+
+.feature .inner{
+  display: flex;
+  justify-content: space-between;
+}
+
+.feature .inner .back{
+  
+}
+
+.feature .inner .next{
+
+}
+
+.feature .part_notice{
+  font-size : 28px;
+  font-weight: 700;
+  position: absolute;
+  top: 80px;
+  right : 57px;
+}
+
+
+img{
+  width: 500px;
+  height: 650px;
+}
+
+.sences{
+  position:absolute;
+  left: 480px;
+}
+
+.top{
+  position:absolute;
+  top: 149px;
+  left : 30px;
+  background-color: #fff;
+  border : 1px solid black;
+  border-radius: 8px;
+  width: 85px;
+  height: 30px;
+  cursor:pointer;
+}
+
+.top:active{
+  transform:scale(0.98);
+}
