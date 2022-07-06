@@ -77,14 +77,15 @@ header .inner .introduce_character:hover{
 }
 
 .Illustrator .inner .paint{
-  background-color: #fff;
+  background-image: url('../images/표지_220705_083655_0.png');
   border : 1px solid black;
   position: absolute;
   top: 30px;
   left: 32px;
   width: 290px;
   height : 400px;
-  
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .Illustrator .inner .explain{
@@ -152,3 +153,22 @@ header .inner .introduce_character:hover{
   left : 20px; 
 }
 
+
+.part .part5{
+  position : absolute;
+  top: 180px;
+  left : 20px; 
+}
+
+
+.part .part6{
+  position : absolute;
+  top: 220px;
+  left : 20px; 
+}
+
+.part .part7{
+  position : absolute;
+  top: 260px;
+  left : 20px; 
+}
