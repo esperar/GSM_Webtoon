@@ -7,7 +7,7 @@
 주인공 : 채종인  
 주인공 동료 : 박주홍 김경수  
 빌런 : 이기환  
-  
+
+- https://kimhuemang.github.io/GSM_Webtoon/html/main.html
   
 > 제작자 : 김희망 
-> 디자이너 : 강민수 (근데 한거 없음)
