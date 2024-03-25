@@ -8,6 +8,6 @@
 주인공 동료 : 박주홍 김경수  
 빌런 : 이기환  
 
-- https://kimhuemang.github.io/GSM_Webtoon/html/main.html
+- https://esperar.github.io/GSM_Webtoon/html/main.html
   
 > 제작자 : 김희망 
